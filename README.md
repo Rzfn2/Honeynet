@@ -53,7 +53,7 @@ sudo docker-compose build
 sudo docker-compose up -d
 ```
 
-### 🔑 SSH Key Setup (Optional)
+### 🔑 SSH Key Setup 
 
 To avoid SSH permission issues during testing:
 
