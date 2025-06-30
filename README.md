@@ -143,6 +143,6 @@ MIT License — for academic, SOC testing, and cybersecurity research use only.
 
 ## 👤 Author
 
-**Abdullah Banwair** — [https://github.com/Rzfn2](https://github.com/Rzfn2)
+Made by [Abdullah](https://github.com/Rzfn2)
 
 Feedback and professional collaboration are welcome. ⭐
