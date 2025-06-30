@@ -1,0 +1,7 @@
+# SSH Honeypot dependencies
+paramiko
+
+# FTP Honeypot dependencies
+pyftpdlib
+
+
