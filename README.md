@@ -43,7 +43,7 @@ A lightweight, professional-grade honeynet built using Docker Compose. This proj
 sudo apt update && sudo apt install -y docker.io docker-compose
 
 # Clone the honeynet repository
-git clone https://github.com/Rzfn2/honeynet.git
+git clone https://github.com/Rzfn2/Honeynet.git
 cd honeynet
 
 # Build honeypot containers
